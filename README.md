@@ -1,3 +1,3 @@
 # nginx
 
-#How to setup nginx as reverse proxy
+# How to setup nginx as load balancer
