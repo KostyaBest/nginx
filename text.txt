@@ -1,0 +1,6 @@
+#Folder path /etc/nginx/nginx.conf
+#1)create flaskapp.conf
+#2)rename default.conf default.conf.diabled
+#3)check config with nginx -t
+#4)reload nginx with: nginx -s reload
+
