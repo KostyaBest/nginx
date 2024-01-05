@@ -1,0 +1,14 @@
+
+
+#Folder path /etc/nginx/nginx.conf
+#1)create app.conf
+#2)rename default.conf default.conf.diabled
+#3)check config with nginx -t
+#4)reload nginx with: nginx -s reload
+
+#5)In apps with prefix come with the prefix
+if /api/ comes to backend
+backend should have uri prefix /api/
+
+So hello world
+/api/
